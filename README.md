@@ -7,6 +7,10 @@ This contain below following points:
 - Login API authentication using passport-jwt strategy
 - Create the CRUD of Post module by authenticated user
 
+# Bonus
+
+- JwT token authentication logic.
+
 ## To run the Project
 
 - npm install
